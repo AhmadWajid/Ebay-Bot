@@ -13,8 +13,8 @@ To find product prices use the command !ebay (product-name)
 
 <h1>Bot processing input step by step:</h1>
 <b>Step 1 -> Collecting Data</b>
-<img src="https://media.discordapp.net/attachments/842802529171537921/867840077082394644/Screenshot_2021-07-22_at_11.39.58_AM.png">
+<img src="/imgs/1.png">
 <b>Step 2 -> Doing Math</b>
-<img src="https://media.discordapp.net/attachments/842802529171537921/867840076028969031/Screenshot_2021-07-22_at_11.40.22_AM.png">
+<img src="/imgs/2.png">
 <b>Step 3 -> Output</b>
-<img src="https://media.discordapp.net/attachments/842802529171537921/867840072850473011/Screenshot_2021-07-22_at_11.40.31_AM.png">
+<img src="/imgs/3.png">
